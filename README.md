@@ -1,5 +1,7 @@
 # platformio_heltec_wireless_stick_lite_board
+
 heltec wireless stick lite_ Board support to platformio.ini
+
 [env:heltec_wireless_stick]
 
 platform = espressif32
